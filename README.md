@@ -4,7 +4,7 @@
 This Project aims to demonstrate the application of machine learning on small embedded systems, and is created as part of the TinyML course at Aarhus University.
 
 ## Description:
-This project leverages the microphone on the Photon2 to continuously monitor the surrounding environment and determine when to emit white noise based on detected sounds.
+This project uses a microphone with the Photon2 to continuously monitor the surrounding environment and determine when to emit white noise based on detected sounds.
 
 Using machine learning, the system can differentiate between various types of sounds and selectively react only to those that are likely to disturb the user.
 
