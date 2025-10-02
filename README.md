@@ -1,4 +1,4 @@
-# TinyML---White-Noise-Box
+# TinyML - Ambient Noise Detector
 
 ## Introduction: 
 The aim of this project is to demonstrate the application of machine learning on small embedded systems, and is created as part of the TinyML course at Aarhus University.
